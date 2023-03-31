@@ -1,7 +1,7 @@
 # gestion_de_restaurant_python
 
 ## Gestionnaire de commandes pour un restaurant
-Ce projet est un petit gestionnaire de commandes pour un restaurant, réalisé en Python.
+Ce projet est un petit gestionnaire de commandes pour un restaurant, réalisé en Python.<br>
 Il permet aux clients de passer des commandes et aux employés de les gérer.
 
 Fonctionnalités
