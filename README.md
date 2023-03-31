@@ -5,7 +5,7 @@ Ce projet est un petit gestionnaire de commandes pour un restaurant, réalisé e
 Il permet aux clients de passer des commandes et aux employés de les gérer.
 
 Fonctionnalités
-Le gestionnaire de commandes permet aux clients de :
+. Le gestionnaire de commandes permet aux clients de :
 
 Consulter le menu
 Passer une commande
@@ -22,7 +22,7 @@ Pour utiliser ce gestionnaire de commandes, veuillez suivre les étapes suivante
 
 Clonez ce dépôt sur votre ordinateur.
 Assurez-vous que Python est installé sur votre ordinateur.
-Exécutez le fichier main.py pour lancer le programme.
+Exécutez le fichier projet.py pour lancer le programme.
 Suivez les instructions à l'écran pour passer une commande ou gérer les commandes existantes.
 Pour plus d'informations sur l'utilisation du programme, veuillez consulter le fichier gestion_resto.pdf.
 
