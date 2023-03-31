@@ -1,4 +1,5 @@
 # gestion_de_restaurant_python
+👋👋👋👋👋👋
 
 ## Gestionnaire de commandes pour un restaurant
 Ce projet est un petit gestionnaire de commandes pour un restaurant, réalisé en Python.<br>
@@ -24,7 +25,7 @@ Pour utiliser ce gestionnaire de commandes, veuillez suivre les étapes suivante
 Assurez-vous que Python est installé sur votre ordinateur.<br>
 Exécutez le fichier projet.py pour lancer le programme.
 Suivez les instructions à l'écran pour passer une commande ou gérer les commandes existantes.
-Pour plus d'informations sur l'utilisation du programme, veuillez consulter le fichier  ### gestion_resto.pdf.<br>
+Pour plus d'informations sur l'utilisation du programme, veuillez consulter le fichier  <br>gestion_resto.pdf.<br>
 
 ### Contribution
 Si vous souhaitez contribuer à ce projet, vous pouvez créer une branche et proposer une pull request. Nous sommes ouverts aux contributions de la communauté.
